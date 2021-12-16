@@ -17,13 +17,11 @@ The app requires credentials to Mogul.gg in order to sign in and access the JSON
 Edit the `index.js` file and adjust the consts accordingly.
 
 ```js
-{
 // Configuration
 const email = "<Email>";
 const password = "<Password>";
 const tournamentIDStart = 00000;
 const tournamentIDEnd = 00000;
-}
 ```
 
 ## Running
